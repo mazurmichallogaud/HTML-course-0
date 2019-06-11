@@ -1,0 +1,27 @@
+body
+{
+background-color: burlywood;
+font-family: Verdana;
+font-size: 25px;
+color: maroon
+}
+h1
+{
+    font-size: 50;
+    color:red
+}
+/*Nieodwiedzony link*/
+a:link
+{
+    color:saddlebrown
+}
+/*Odwiedzony link*/
+a:visited
+{
+    color: saddlebrown
+}
+/*Link po najechaniu kursorem*/
+a:hover
+{
+color:red
+}
